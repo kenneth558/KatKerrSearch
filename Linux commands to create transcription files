@@ -1,7 +1,7 @@
 #1. Make the file with name: "Kat Kerr's Heaven Talks"
 Consider embedding a timestamp in that name and carry it through (not shown) to the next step
 
-#2.  Remove timestamp lines and excessive linebreaks: Lines 5-113
+#2.  Remove timestamp lines and excessive linebreaks: Lines 5-113 as a single entry on the command line
 sed '/^[[:digit:]]*:[[:digit:]][[:digit:]]*/d' < "Kat Kerr's Heaven Talks"|
 awk 'BEGIN {
    previous7line="";
