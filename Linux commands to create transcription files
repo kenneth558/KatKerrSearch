@@ -110,3 +110,5 @@ awk 'BEGIN {
       }
    }
 }' > "Kat Kerr's Heaven Talks sans timestamps and linebreaks"
+
+#3.  Post that file to GitHub and add a link to it in the web page
