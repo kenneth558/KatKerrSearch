@@ -1,5 +1,5 @@
 #1. Make the file with name: "Kat Kerr's Heaven Talks"
-Consider embedding a timestamp in that name and carry it through (not shown) to the next step
+Consider embedding a timestamp in that name and carry it through (not shown) to the next step...in which case you would enter the top line in two steps instead of one
 
 #2.  Remove timestamp lines and excessive linebreaks: Copy-paste Lines 5-112 as a single entry on the command line
 filename="Kat Kerr's Heaven Talks";sed '/^[[:digit:]]*:[[:digit:]][[:digit:]]*/d' < "Kat Kerr's Heaven Talks"|
