@@ -112,3 +112,5 @@ awk 'BEGIN {
 }' > "$filename sans timestamps and linebreaks"
 
 #3.  Post that file to GitHub and add a link to it in the web page
+
+@4.  Also post the version WITH timestamps in it so people can follow instructions elsewhere telling how to get the timestamp within the video.
