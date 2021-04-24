@@ -15,6 +15,10 @@ awk 'BEGIN {
 }
 {
    gsub("%","percent")
+   gsub(">","")
+   gsub("  "," ")
+   gsub( "^ ","")
+   gsub( "^\\.","")
    if(length(previous6line)==0 || length(previous5line)==0 || length(previous4line)==0 || length(previous3line)==0 || length(previous2line)==0 || length(previous1line)==0 )
    {
       if(sourceblockstatus==0 && substr($0,0,4)=="http")
@@ -63,7 +67,7 @@ awk 'BEGIN {
             print previous2line
             print previous1line
          }
-         else 
+         else
          {
             print ""
             print previous6line
@@ -75,7 +79,7 @@ awk 'BEGIN {
          }
       }
       else if(sourceblockstatus==2 && length($0)>0)
-      {  
+      {
          sourceblockstatus=3
       }
       else if(sourceblockstatus==3 && length($0)==0)
@@ -96,7 +100,7 @@ awk 'BEGIN {
    {
       previous1line=""
    }
-   else 
+   else
    {
       if(length($0)>0 || length(previous1line)>0)
       {
