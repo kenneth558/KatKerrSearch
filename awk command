@@ -1,0 +1,121 @@
+#1. Make the file with name: "Kat Kerr's Heaven Talks"
+Consider embedding a timestamp in that name and carry it through (not shown) to the next step...in which case you would enter the top line in two steps instead of one
+
+#2.  Remove timestamp lines and excessive linebreaks: Copy-paste Lines 5-112 as a single entry on the command line
+filename="Kat Kerr's Heaven Talks";sed '/^[[:digit:]]*:[[:digit:]][[:digit:]]*/d' < "$filename"|
+awk 'BEGIN {
+   previous7line="";
+   previous6line="";
+   previous5line="";
+   previous4line="";
+   previous3line="";
+   previous2line="";
+   previous1line="";
+   sourceblockstatus=0
+}
+{
+   gsub("%","percent")
+   gsub(">","")
+   gsub("  "," ")
+   gsub( "^ ","")
+   gsub( "^\\.","")
+   if(length(previous6line)==0 || length(previous5line)==0 || length(previous4line)==0 || length(previous3line)==0 || length(previous2line)==0 || length(previous1line)==0 )
+   {
+      if(sourceblockstatus==0 && substr($0,0,4)=="http")
+      {
+         sourceblockstatus=1
+      }
+      else if(sourceblockstatus==1 && length($0)==0)
+      {
+         sourceblockstatus=2
+         if(length(previous1line)==0)
+         {
+            print ""
+         }
+         else if(length(previous2line)==0)
+         {
+            print ""
+            print previous1line
+         }
+         else if(length(previous3line)==0)
+         {
+            print ""
+            print previous2line
+            print previous1line
+         }
+         else if(length(previous4line)==0)
+         {
+            print ""
+            print previous3line
+            print previous2line
+            print previous1line
+         }
+         else if(length(previous5line)==0)
+         {
+            print ""
+            print previous4line
+            print previous3line
+            print previous2line
+            print previous1line
+         }
+         else if(length(previous6line)==0)
+         {
+            print ""
+            print previous5line
+            print previous4line
+            print previous3line
+            print previous2line
+            print previous1line
+         }
+         else
+         {
+            print ""
+            print previous6line
+            print previous5line
+            print previous4line
+            print previous3line
+            print previous2line
+            print previous1line
+         }
+      }
+      else if(sourceblockstatus==2 && length($0)>0)
+      {
+         sourceblockstatus=3
+      }
+      else if(sourceblockstatus==3 && length($0)==0)
+      {
+         print ""
+         sourceblockstatus=0
+      }
+      if(sourceblockstatus==3)
+      {
+          printf $0 " "
+      }
+   }
+   else
+   {
+      sourceblockstatus=0
+   }
+   if(sourceblockstatus==3)
+   {
+      previous1line=""
+   }
+   else
+   {
+      if(length($0)>0 || length(previous1line)>0)
+      {
+         previous7line=previous6line;
+         previous6line=previous5line;
+         previous5line=previous4line;
+         previous4line=previous3line;
+         previous3line=previous2line;
+         previous2line=previous1line;
+         previous1line=$0;
+      }
+   }
+}' > "$filename sans timestamps and linebreaks"
+
+#3.  Post that file to GitHub and add a link to it in the web page
+
+@4.  Also post the version WITH timestamps in it so people can follow instructions elsewhere telling how to get the timestamp within the video.
+
