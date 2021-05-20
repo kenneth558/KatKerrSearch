@@ -1,3 +1,5 @@
+## An announcement by Elijah Streams on Wednesday, May 19, 2021 may indicate that they will address the need themselves that this search tool has tried to address.  Therefore, I am pausing content additions to this tool for the time being.  Kat's interview of May 19, 2021 will not be added until further notice.
+
 ### KatKerrSearch
 ##### HERE'S WHERE TO DO YOUR DUE DILIGENCE BEFORE ASKING KAT A HEAVEN QUESTION TO SEE IF SHE HAS ALREADY ADDRESSED THAT TOPIC.
   Each link pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
