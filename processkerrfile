@@ -1,7 +1,11 @@
-#!/usr/bin/env bash 
+#!/usr/bin/env bash
 printf "processing..."
-filename="$1"
-sed '/^[[:digit:]]*:[[:digit:]][[:digit:]]*/d' < "$filename"|
+if [[ "$1." != . ]];then
+   filename="$1"
+else
+   read -p "File name to process:" filename
+fi
+sed '/^[[:digit:]]*:[[:digit:]][[:digit:]]*/d' < "${filename}"|
 awk 'BEGIN {
    previous7line="";
    previous6line="";
@@ -114,4 +118,5 @@ awk 'BEGIN {
    }
 }' > "$filename sans timestamps and linebreaks"
 echo ""
-echo "finished"
+echo "finished making $filename sans timestamps and linebreaks"
+
