@@ -3,7 +3,7 @@
   Each link pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
 * [**Assorted content 1**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20sans%20timestamps%20and%20linebreaks?raw=true), assorted transcripts' sheer volume requires several files
 * [**Assorted content 2**](https://raw.githubusercontent.com/kenneth558/KatKerrSearch/main/Kat%20Kerr's%20Heaven%20Talks04232021%20sans%20timestamps%20and%20linebreaks)
-* [**Elijah Streams content**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **Nov 17, 2021 EPISODE 51** interview
+* [**Elijah Streams content**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **Nov 24, 2021 EPISODE 52** interview
 ***
 [Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
 ***
