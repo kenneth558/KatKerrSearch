@@ -6,6 +6,7 @@
 * [**Elijah Streams content**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **Dec 1, 2021 EPISODE 53** interview
 ***
 [Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
+[Daily prayers transcripts coming soon](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
 ***
 * **Speediest search technique I know of:** Since your browser search feature might retain search terms for the transcript pages rendered in the same url domain as this page, you would enter the browser search feature and phrase of interest into it while this page is still showing, then click on each link above, search it from the **_browser search feature that you've kept open_**, keep search open and back out of just that page.  The main point is to keep your browser search feature open as you go from here, to content link, to "back" here, and on to the next content link.  Repeat until you finish searching all the content links as many times as you desire.  Firefox browser allows this technique nicely.
 * **Read current content** - only supported as the first stage of searching each content link.
