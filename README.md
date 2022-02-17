@@ -7,6 +7,7 @@
 * [**Elijah Streams content Dec. 2021 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Dec2021-Nov2022%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **Feb 9, 2022 EPISODE 63** interview
 ***
 [Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
+see also [WEDNESDAYS WITH KAT AND STEVE - Episode 64 of Feb 16, 2022](https://youtu.be/8ibDFrNh8rg) for a SUBSTANTIAL teaching that is relevent.
 
 [Daily prayers transcripts coming soon](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
 ***
