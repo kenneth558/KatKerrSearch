@@ -1,7 +1,7 @@
 ### KatKerrSearch
 ##### HERE'S WHERE TO DO YOUR DUE DILIGENCE BEFORE ASKING KAT A HEAVEN QUESTION TO SEE IF SHE HAS ALREADY ADDRESSED THAT TOPIC.
   Each link pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
-* [**Assorted content 1**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20sans%20timestamps%20and%20linebreaks?raw=true), assorted transcripts' sheer volume requires several files
+* [**Assorted content 1**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20sans%20timestamps%20and%20linebreaks?raw=true), accumulated transcripts' sheer volume requires several files
 * [**Assorted content 2**](https://raw.githubusercontent.com/kenneth558/KatKerrSearch/main/Kat%20Kerr's%20Heaven%20Talks04232021%20sans%20timestamps%20and%20linebreaks)
 * [**Elijah Streams content Feb. 23, 2019 to Nov. 2021**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Feb2018-Nov2021%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Dec 1, 2021 EPISODE 53** interview
 * [**Elijah Streams content Dec. 2021 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Dec2021-Nov2022%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **July 20, 2022 EPISODE 86** interview
