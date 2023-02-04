@@ -1,6 +1,6 @@
-* <p align="center">
-  accumulated transcripts' sheer volume requires several files
-* </p>
+<p align="center">
+(accumulated transcripts' sheer volume requires several files)
+</p>
 * [**Assorted content 1**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20sans%20timestamps%20and%20linebreaks?raw=true)
   [**Assorted content 2**](https://raw.githubusercontent.com/kenneth558/KatKerrSearch/main/Kat%20Kerr's%20Heaven%20Talks04232021%20sans%20timestamps%20and%20linebreaks)
 * [**Elijah Streams content Feb. 23, 2019 to Nov. 2021**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Feb2018-Nov2021%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Dec 1, 2021 EPISODE 53** interview
