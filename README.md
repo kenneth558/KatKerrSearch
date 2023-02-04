@@ -13,11 +13,6 @@
 ##### HERE'S WHERE TO DO YOUR DUE DILIGENCE BEFORE ASKING KAT A HEAVEN QUESTION TO SEE IF SHE HAS ALREADY ADDRESSED THAT TOPIC.
   Each link listed above pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
 ***
-[Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub).  
-see also [WEDNESDAYS WITH KAT AND STEVE - Episode 64 of Feb 16, 2022](https://youtu.be/8ibDFrNh8rg) for a SUBSTANTIAL teaching that is relevent.
-
-[Daily prayers transcripts coming soon](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
-***
 * **Speediest search technique I know of:** Since your browser search feature might retain search terms for the transcript pages rendered in the same url domain as this page, you would enter the browser search feature and phrase of interest into it while this page is still showing, then click on each link above, search it from the **_browser search feature that you've kept open_**, keep search open and back out of just that page.  The main point is to keep your browser search feature open as you go from here, to content link, to "back" here, and on to the next content link.  Repeat until you finish searching all the content links as many times as you desire.  Firefox browser allows this technique nicely.
 * **Read current content** - only supported as the first stage of searching each content link.
 * **Locate the target YouTube video:** If your search is successful, the cursor will be located on the phrase within a video transcript.  **The YouTube url of that video is the last one prior to that cursor location.**  Grab and go to that url and search that transcript you'll find there.  If for some reason you can't pull it up, that transcript has been saved in a file named similar to the one in which you performed the search successfully, without the "sans timestamps and linebreaks" in the name.  If you know a certain phrase (multiple words) is located in the video but you're having difficulty finding it in the raw transcript, remember this: raw transcripts often separate words by more than one space or it could be spread across multiple lines.
@@ -26,6 +21,11 @@ see also [WEDNESDAYS WITH KAT AND STEVE - Episode 64 of Feb 16, 2022](https://yo
 * **What is the motivation for making this portal?** Kat's revelations are too valuable for mankind and time is too  limited to ask her to repeat previous ones when we need to hear new ones.  Thanks for making a difference.
 * **Can this be made more intuitive or attractive?** I'm sure it could, but I'm too busy just making things functional to give priority to what I'm not gifted at.  If you're gifted at that, let me know, but do understand GitHub's limitation in that no database is directly available for wild card, AND, and OR searching.
 * **How dependable will this endeavor be, as in, how long will it last?**  This is NOT a top priority for me.  [I will accept someone else taking over it.](https://github.com/kenneth558/KatKerrSearch/blob/main/Linux%20commands%20to%20create%20transcription%20files)  In the meantime, I'll try to keep the ElijahStreams transcriptions current and add other's video transcriptions to them periodically.  [How to get transcriptions from YouTube videos.](https://github.com/kenneth558/KatKerrSearch/blob/main/How%20to%20get%20youtube%20transcriptions)
+***
+[Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub).  
+see also [WEDNESDAYS WITH KAT AND STEVE - Episode 64 of Feb 16, 2022](https://youtu.be/8ibDFrNh8rg) for a SUBSTANTIAL teaching that is relevent.
+
+[Daily prayers transcripts coming soon](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub)
 
 
 #### More verbosity:
