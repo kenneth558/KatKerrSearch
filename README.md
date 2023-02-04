@@ -1,4 +1,4 @@
-<p align="center">(Each file link below contains many transcripts, and even then multiple files are needed due to the sheer volume of transcripts)</p>
+<p align="center">(Each file link below contains many transcripts, and still multiple files like this are needed due to the sheer volume of transcripts)</p>
 
 [**Assorted content 1**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20sans%20timestamps%20and%20linebreaks?raw=true)
 
