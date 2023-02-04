@@ -5,7 +5,7 @@
 * [**Elijah Streams content Aug. 2022 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Aug2022-Aug2023%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts does include the most recently transcribed ElijahStreams **Feb 1, 2023 EPISODE 114** interview but is not yet populated with many others since Aug. 2022.  I'm working on that as time and motivation permits
 ### KatKerrSearch
 ##### HERE'S WHERE TO DO YOUR DUE DILIGENCE BEFORE ASKING KAT A HEAVEN QUESTION TO SEE IF SHE HAS ALREADY ADDRESSED THAT TOPIC.
-  Each link pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
+  Each link listed above pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
 ***
 [Host Initiative transcripts](https://docs.google.com/document/d/e/2PACX-1vQii1R_3NJuTjpVOTx-KNWQtguNnylhlLfdEDSk57pu1MVAwPapB9mPMLtbfMqwUTqRecbl0r3oK8cg/pub).  
 see also [WEDNESDAYS WITH KAT AND STEVE - Episode 64 of Feb 16, 2022](https://youtu.be/8ibDFrNh8rg) for a SUBSTANTIAL teaching that is relevent.
