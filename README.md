@@ -8,7 +8,7 @@
 
 [**Elijah Streams content Dec. 2021 to Aug. 2022**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Dec2021-Nov2022%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Aug 10,2022 EPISODE 89** interview
 
-[**Elijah Streams content Aug. 2022 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Aug2022-Aug2023%20sans%20timestamps%20and%20linebreaks?raw=true), this  transcripts collection of publicly available videos does include the most recently transcribed ElijahStreams **Feb 8, 2023 EPISODE 115** interview but Dec 21, 2022 Episode 108 and Jan 2023 Episodes 111, 112, and 113 aren't included yet.  I'm working on that as time and motivation permits.  Episode 108 is problematic for my transcribing software due to its long beginning without speech.
+[**Elijah Streams content Aug. 2022 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Aug2022-Aug2023%20sans%20timestamps%20and%20linebreaks?raw=true), this  transcripts collection of publicly available videos does include the most recently transcribed ElijahStreams **Feb 8, 2023 EPISODE 115** interview.
 ### KatKerrSearch
 ##### HERE'S WHERE TO DO YOUR DUE DILIGENCE BEFORE ASKING KAT A HEAVEN QUESTION TO SEE IF SHE HAS ALREADY ADDRESSED THAT TOPIC.
   Each link listed above pulls up a transcript of several presentations.  More links can be expected in the future in order to prevent the files from violating size limits.
