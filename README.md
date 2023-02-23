@@ -6,7 +6,7 @@
 
 [**Elijah Streams content Feb. 23, 2019 to Nov. 2021**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Feb2018-Nov2021%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Dec 1, 2021 EPISODE 53** interview
 
-[**Elijah Streams content Dec. 2021 to Aug. 2022**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Dec2021-Nov2022%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Aug 10,2022 EPISODE 89** interview
+[**Elijah Streams content Dec. 2021 to Aug. 2022**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Dec2021-Nov2022%20sans%20timestamps%20and%20linebreaks?raw=true), this collection of YouTube transcripts includes ElijahStreams **Aug 10, 2022 EPISODE 89** interview
 
 [**Elijah Streams content Aug. 2022 to present**](https://github.com/kenneth558/KatKerrSearch/blob/main/Kat%20Kerr's%20Heaven%20Talks%20ElijahStreams%20Aug2022-Aug2023%20sans%20timestamps%20and%20linebreaks?raw=true), this  transcripts collection of publicly available videos does include the most recently transcribed ElijahStreams **Feb 22, 2023 EPISODE 116** interview.
 ### KatKerrSearch
